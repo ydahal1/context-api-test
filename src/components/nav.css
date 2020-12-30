@@ -1,0 +1,11 @@
+.nav {
+  background: gray;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.nav__logo {
+  margin-left: 20px;
+}

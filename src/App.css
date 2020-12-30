@@ -1,0 +1,9 @@
+.App__mainContent {
+  display: flex;
+  background: red !important;
+  margin: 200px;
+}
+
+.App__mainContent__div1 {
+  background: red !important;
+}
